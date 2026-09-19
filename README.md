@@ -3,4 +3,4 @@
 nothing now
 
 ## website
-[https://shadowplusing.website/snake_game/](https://shadowplusing.website/snake_game/)
+[https://shadowplusing.cn/XJY.GAME.MINI.snakeGame/](https://shadowplusing.cn/XJY.GAME.MINI.snakeGame/)
